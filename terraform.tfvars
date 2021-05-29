@@ -1,3 +1,4 @@
+#This are the variables you can update or remove so that it will prompt you while executing the apply command.
 instance_name = "webpage"
 security_group_name = "mysecurity"
 bucket_name = "komalsuthar"
