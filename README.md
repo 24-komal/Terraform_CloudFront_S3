@@ -1,7 +1,6 @@
 # Terraform_CloudFront_S3_UseCase
 
-#### This repo consist code of terraform by which we can create the AWS resources such as S3, Cloudfront, ec2_instance.
-#### Also configuring the Webserver having a simple image url in its html code which is provided by Cloudfront domain name and the object from the S3.
+#### This repo consist code of terraform by which we can create the AWS resources such as S3, Cloudfront, ec2_instance. Also configuring the Webserver having a simple image url in its html code which is provided by Cloudfront domain name and the object from the S3.
  
 ## List of steps I had performed:
 
