@@ -11,6 +11,14 @@
 5. Doing SSH remotly.
 6. Configuring the instance having httpd install and service started and also enabled lastly copy a demo html code having mainly an image, which we have uploaded in S3 bucket.
 
+## List of steps you have to perform:
+
+1. Give the default credentials of the AWS provider in provider.tf file.
+2. Give your own variable values in the terraform.tfvars file.
+3. Run "terraform init" command in the terminal.
+4. Run "terraform plan" cmd.
+5. Run "terraform apply" cmd.
+
 Lastly it will automatically access the webpage in the chrome browser having the same S3 object but coming from the cloudfront without and delay and secured too.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=24-komal.Terraform_CloudFront_S3_UseCase)
